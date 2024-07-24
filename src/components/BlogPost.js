@@ -29,14 +29,14 @@ const BlogPost = () => {
               When I first read Langston Hughes' poem "I, Too," I was struck by its blunt force and relevance. It's a voice from history reaching out to us today, questioning identity, community, and our fight for a better future.
             </p>
             <p className="mb-4 text-lg text-black leading-relaxed text-justify">
-              I felt the authenticity of the black experience that he wrote about, pursuing happiness and greatness despite obstruction. The opening, "I, too, sing America," struck me. Hughes claimed his spot in the nation, defining what it means to be American.
+              Furthermore, I felt the authenticity of the black experience that he wrote about, pursuing happiness and greatness despite obstruction. The opening, "I, too, sing America," struck me. Hughes claimed his spot in the nation, defining what it means to be American.
             </p>
             <figure className="mb-4">
               <img src="/langston_hughes_ap_img.jpg" alt="Langston Hughes" className="w-full h-auto object-cover mb-2"/>
               <figcaption className="text-sm italic text-gray-600 text-center">Langston Hughes, the author of "I, Too"</figcaption>
             </figure>
             <p className="mb-4 text-lg text-black leading-relaxed text-justify">
-              The poem insists that African Americans be SEEN and acknowledged. Hughes, sent to eat in the kitchen, proclaims confidently that "Tomorrow, / I'll be at the table / When company comes." This poem captures both harsh realities and optimistic dreams.
+              Moreover, the poem insists that African Americans be SEEN and acknowledged. Hughes, sent to eat in the kitchen, proclaims confidently that "Tomorrow, / I'll be at the table / When company comes." This poem captures both harsh realities and optimistic dreams.
             </p>
 
             <section className="mt-8 border-t-2 border-gray-300 pt-4">
@@ -49,7 +49,7 @@ const BlogPost = () => {
                 <figcaption className="text-sm italic text-gray-600 text-center">A scene from the Harlem Renaissance</figcaption>
               </figure>
               <p className="mb-4 text-lg text-black leading-relaxed text-justify">
-                The poem's kitchen setting illustrates segregation. Yet, Hughes shows resilience: "But I laugh, / And eat well, / And grow strong." This is not just survival, but thriving despite oppression.
+                Additionally, the poem's kitchen setting illustrates segregation. Yet, Hughes shows resilience: "But I laugh, / And eat well, / And grow strong." This is not just survival, but thriving despite oppression.
               </p>
             </section>
 
@@ -59,7 +59,7 @@ const BlogPost = () => {
                 Hughes writes in free verse, using line breaks to emphasize meaning. This adds a musical quality, giving the poem a natural rhythm.
               </p>
               <p className="mb-4 text-lg text-black leading-relaxed text-justify">
-                For instance: "I am the darker brother." Hughes says it all in five words, with each subsequent read revealing new layers of meaning.
+                For instance, "I am the darker brother." Hughes says it all in five words, with each subsequent read revealing new layers of meaning.
               </p>
               <figure className="mb-4">
                 <img src="/john-lewis-selma-1965.jpg" alt="A powerful image of segregation" className="w-full h-auto object-cover mb-2"/>
@@ -87,7 +87,7 @@ const BlogPost = () => {
                 The voice in Hughes' poem is strong and unapologetic. There is no begging or whining. Instead, Hughes refuses to let others define him. This tone is incredibly empowering.
               </p>
               <p className="mb-4 text-lg text-black leading-relaxed text-justify">
-                I admired Hughes' ability to envision a better future despite difficulties. It's a reminder that how we perceive ourselves can help overcome adversity.
+                Furthermore, I admired Hughes' ability to envision a better future despite difficulties. It's a reminder that how we perceive ourselves can help overcome adversity.
               </p>
               <figure className="mb-4">
                 <img src="/gettyimages-74296266_wide-f250b7a1ac48acf6e18a527663d69171ff1101b0.jpg" alt="Confidence in the face of adversity" className='w-full h-auto object-cover mb-2'/>
@@ -115,7 +115,7 @@ const BlogPost = () => {
                 As I reflect on "I, Too," I'm struck by its message of hope and determination. While I may not have faced the exact challenges Hughes describes, I've had moments where I felt like an outsider.
               </p>
               <p className="mb-4 text-lg text-black leading-relaxed text-justify">
-                Hughes' words remind me that resilience and self-belief are powerful tools. This poem has become a source of strength when facing adversity.
+                Indeed, Hughes' words remind me that resilience and self-belief are powerful tools. This poem has become a source of strength when facing adversity.
               </p>
               <figure className="mb-4">
                 <img src="/black-pride-anthems-gettyimages-517322986.jpg" alt="Finding personal strength in Hughes' words" className="w-full h-auto object-cover mb-2"/>
@@ -126,7 +126,7 @@ const BlogPost = () => {
             <section className="mt-8 border-t-2 border-gray-300 pt-4">
               <h3 className="text-2xl font-bold mb-4 text-black">Conclusion: A Timeless Call for Equality</h3>
               <p className="mb-4 text-lg text-black leading-relaxed text-justify">
-                "I, Too" stands as a testament to the enduring power of words in the fight for equality. Hughes crafts a message that is deeply personal and universally resonant, inspiring us to confront inequality and imagine a more just future.
+                In conclusion, "I, Too" stands as a testament to the enduring power of words in the fight for equality. Hughes crafts a message that is deeply personal and universally resonant, inspiring us to confront inequality and imagine a more just future.
               </p>
               <figure className="mb-4">
                 <img src="/7243255-AFIJSZEC-7.jpg" alt="A sunrise image symbolizing hope and a new dawn for equality" className="w-full h-auto object-cover mb-2"/>
