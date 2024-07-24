@@ -119,7 +119,7 @@ const BlogPost = () => {
               </p>
               <figure className="mb-4">
                 <img src="/black-pride-anthems-gettyimages-517322986.jpg" alt="Finding personal strength in Hughes' words" className="w-full h-auto object-cover mb-2"/>
-                <figcaption className="text-sm italic text-gray-600 text-center">Martin Luther King Jr. & Raplh David Abernathy march from Selma to Montgomery in March of 1065</figcaption>
+                <figcaption className="text-sm italic text-gray-600 text-center">Martin Luther King Jr. & Raplh David Abernathy march from Selma to Montgomery in March of 1965</figcaption>
               </figure>
             </section>
 
