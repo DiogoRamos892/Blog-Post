@@ -26,7 +26,7 @@ const BlogPost = () => {
             </p>
 
             <p className="mb-4 text-lg text-black leading-relaxed text-justify">
-              When I first read Langston Hughes' poem "I, Too," I was struck by its blunt force and relevance. It's like a voice from history reaching out to us today, questioning identity, community, and our fight for a better future.
+              When I first read Langston Hughes' poem "I, Too," I was struck by its blunt force and relevance. It's a voice from history reaching out to us today, questioning identity, community, and our fight for a better future.
             </p>
             <p className="mb-4 text-lg text-black leading-relaxed text-justify">
               I felt the authenticity of the black experience that he wrote about, pursuing happiness and greatness despite obstruction. The opening, "I, too, sing America," struck me. Hughes claimed his spot in the nation, defining what it means to be American.
