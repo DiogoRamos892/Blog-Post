@@ -36,30 +36,30 @@ const BlogPost = () => {
                         </p>
 
                         <p className="mb-4 text-lg text-black leading-relaxed text-justify">
-                            When I first read Langston Hughes' poem "I, Too," I was struck by its blunt force and relevance. It's a voice from history reaching out to us today, questioning identity, community, and our fight for a better future.
+                            The first time I read Langston Hughes' poem "I, Too," I was taken back by its unapologetic directness and its echoes from history, passing questions to us about who we are, what is our constituency, and what is the vision of the possible that we are so afraid will be lost. It's a voice from the past speaking to us now, challenging our fight for a better future and our sense of self and community.
                         </p>
                         <p className="mb-4 text-lg text-black leading-relaxed text-justify">
-                            Furthermore, I felt the authenticity of the black experience that he wrote about, pursuing happiness and greatness despite obstruction. The opening, "I, too, sing America," struck me. Hughes claimed his spot in the nation, defining what it means to be American.
+                            More importantly, I felt the realness of black lives scrounging for joy and triumph amidst struggle, for hope when nothing but hopelessness abounds. "I, too, sing America," had me at hello. He staked his citizenship in these United States while charting what the defining word American meant and means. 
                         </p>
                         <figure className="mb-4">
                             <img src="/langston_hughes_ap_img.jpg" alt="Langston Hughes" className="w-full h-auto object-cover mb-2 cursor-pointer" onClick={() => handleImageClick("/langston_hughes_ap_img.jpg")}/>
                             <figcaption className="text-sm italic text-gray-600 text-center">Langston Hughes, the author of "I, Too"</figcaption>
                         </figure>
                         <p className="mb-4 text-lg text-black leading-relaxed text-justify">
-                            Moreover, the poem insists that African Americans be SEEN and acknowledged. Hughes, sent to eat in the kitchen, proclaims confidently that "Tomorrow, / I'll be at the table / When company comes." This poem captures both harsh realities and optimistic dreams.
+                            Even more so, the poem insists that they be SEEN and known. Hughes, sent to eat in the kitchen, has no doubt that "Tomorrow, / I'll be at the table" and then goes on to say, "When company comes." The poem is in the present and the future. 
                         </p>
 
                         <section className="mt-8 border-t-2 border-gray-300 pt-4">
                             <h3 className="text-2xl font-bold mb-4 text-black">Historical Context: The Voice of the Harlem Renaissance</h3>
                             <p className="mb-4 text-lg text-black leading-relaxed text-justify">
-                                To appreciate "I, Too," we must understand the Harlem Renaissance. The 1920s cultural progression spawned a Black cultural revolution, with Hughes as a prominent voice. Writing during strict racial segregation, Hughes boldly declared the pride and humanity of Black Americans.
+                                To fully grasp "I, Too," you must have a clear understanding of the Harlem Renaissance. The 1920s brought a cultural revival of the African American community, in which Hughes was a leading role player. This was still the time of mandated de jure segregation, and Hughes was an unapologetic and relentless fighter for the humanity and justice of the Darker Brother.
                             </p>
                             <figure className="mb-4">
                                 <img src="/topic-harlem-renaissance-gettyimages-517322608.jpg" alt="A scene from the Harlem Renaissance" className="w-full h-auto object-cover mb-2 cursor-pointer" onClick={() => handleImageClick("/topic-harlem-renaissance-gettyimages-517322608.jpg")}/>
                                 <figcaption className="text-sm italic text-gray-600 text-center">A scene from the Harlem Renaissance</figcaption>
                             </figure>
                             <p className="mb-4 text-lg text-black leading-relaxed text-justify">
-                                Additionally, the poem's kitchen setting illustrates segregation. Yet, Hughes shows resilience: "But I laugh, / And eat well, / And grow strong." This is not just survival, but thriving despite oppression.
+                                In addition, the kitchen setting of the poem represents segregation. Still, Hughes signals resilience: "But I laugh, / And eat well, / And grow strong." This is not mere survival, but growth amidst oppression. 
                             </p>
                         </section>
 
@@ -80,10 +80,10 @@ const BlogPost = () => {
                         <section className="mt-8 border-t-2 border-gray-300 pt-4">
                             <h3 className="text-2xl font-bold mb-4 text-black">Symbolism and Themes: From Kitchen to Table</h3>
                             <p className="mb-4 text-lg text-black leading-relaxed text-justify">
-                                The poem is rich with symbolism. The kitchen represents segregation and marginalization, while the table symbolizes equality and inclusion. Hughes writes, "Tomorrow, / I'll be at the table / When company comes." This is a metaphor for full participation in American society.
+                                The poem is rich with symbolism. The kitchen is the backdrop, and in this period would represent segregation and the marginalization of those like the woman. But the table is where everyone is on the same footing. Hughes speaks of it as follows: "Tomorrow, / I'll be at the table, / When company comes." It is the metaphor for the right to be complete citizens in the nation. 
                             </p>
                             <p className="mb-4 text-lg text-black leading-relaxed text-justify">
-                                What struck me most was Hughes' certainty. There's no "if" or "maybe" – it's "Tomorrow," a definite future. This confidence in the face of oppression is deeply inspiring.
+                                What struck me most was Hughes' certainty. There's no "if" or "maybe", it's "Tomorrow," a definite future. This confidence in the face of oppression is deeply inspiring.
                             </p>
                             <figure className="mb-4">
                                 <img src="/Leslies.1-1280px.jpg" alt="The table: a symbol of equality" className="w-full h-auto object-cover mb-2 cursor-pointer" onClick={() => handleImageClick("/Leslies.1-1280px.jpg")}/>
@@ -111,7 +111,7 @@ const BlogPost = () => {
                                 Despite being written almost a century ago, "I, Too" remains strikingly relevant. As we continue to grapple with issues of racial justice, Hughes' words ring true. The poem's themes of identity and belonging echo in movements like Black Lives Matter.
                             </p>
                             <p className="mb-4 text-lg text-black leading-relaxed text-justify">
-                                Reading this poem today, I'm struck by how far we've come – and how far we still have to go. Hughes' vision of a future where no one would "dare" to discriminate is still a work in progress.
+                                Reading this poem today, I'm struck by how far we've come, and how far we still have to go. Hughes' vision of a future where no one would "dare" to discriminate is still a work in progress.
                             </p>
                             <figure className="mb-4">
                                 <img src="/two-african-american-kids-looking-through-window.jpg" alt="Two African American children looking through a window, symbolizing hope for the future" className="w-full h-auto object-cover mb-2 cursor-pointer" onClick={() => handleImageClick("/two-african-american-kids-looking-through-window.jpg")}/>
